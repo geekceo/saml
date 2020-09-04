@@ -33,6 +33,11 @@ public class Group
 
     }
 
+    public String getItem(String itemTag)
+    {
+        return Item.getContent(itemTag, groupItems);
+    }
+
     private String getText() //метод для взятия разметки из файла .saml
     {
         String text = "";
