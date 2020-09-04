@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="saml:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/saml_jar</output-path>
+    <root id="archive" name="saml.jar">
+      <element id="module-output" name="saml" />
+    </root>
+  </artifact>
+</component>

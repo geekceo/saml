@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="saml:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bae366c0-4693-432e-805e-8cef9e777caf" name="Default Changelist" comment="" />
+    <list default="true" id="bae366c0-4693-432e-805e-8cef9e777caf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/saml_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/saml_jar/saml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/saml/META-INF/saml.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/saml/com/geekmere/Group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/saml/com/geekmere/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.saml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geekmere/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekmere/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geekmere/GroupParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geekmere/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekmere/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geekmere/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +33,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gyGWwOP1ZPS66L1hKi0FzhHZxp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -31,6 +60,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,5 +90,31 @@
       <updated>1599079453164</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="170" width="525" height="425" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599211859248">
+      <screen x="0" y="0" width="1368" height="768" />
+    </state>
+    <state x="412" y="170" width="525" height="425" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1368.768@0.0.1368.768" timestamp="1599211859248" />
+    <state width="1322" height="185" key="GridCell.Tab.0.bottom" timestamp="1599211798624">
+      <screen x="0" y="0" width="1368" height="768" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.bottom/0.0.1368.768@0.0.1368.768" timestamp="1599211798624" />
+    <state width="1322" height="185" key="GridCell.Tab.0.center" timestamp="1599211798624">
+      <screen x="0" y="0" width="1368" height="768" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.center/0.0.1368.768@0.0.1368.768" timestamp="1599211798624" />
+    <state width="1322" height="185" key="GridCell.Tab.0.left" timestamp="1599211798624">
+      <screen x="0" y="0" width="1368" height="768" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.left/0.0.1368.768@0.0.1368.768" timestamp="1599211798624" />
+    <state width="1322" height="185" key="GridCell.Tab.0.right" timestamp="1599211798624">
+      <screen x="0" y="0" width="1368" height="768" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.right/0.0.1368.768@0.0.1368.768" timestamp="1599211798624" />
+    <state x="167" y="0" width="1024" height="766" key="SettingsEditor" timestamp="1599211869129">
+      <screen x="0" y="0" width="1368" height="768" />
+    </state>
+    <state x="167" y="0" width="1024" height="766" key="SettingsEditor/0.0.1368.768@0.0.1368.768" timestamp="1599211869129" />
   </component>
 </project>
