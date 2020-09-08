@@ -37,6 +37,7 @@ public class Group
     {
         return Item.getContent(itemTag, groupItems);
     }
+    public void edtItem(String itemTag, String content) { Item.editContent(itemTag, content, this.path); }
 
     private String getText() //метод для взятия разметки из файла .saml
     {
